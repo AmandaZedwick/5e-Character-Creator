@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">5e Character Creator</string>
+    <string name="load_1">Loading.</string>
+    <string name="main_menu">Main Menu</string>
+    <string name="new_char">New Character</string>
+    <string name="view_char">View Character</string>
+    <string name="recover_char">Recover Character</string>
+    <string name="info">5e Character Info</string>
+    <string name="rules">5e Basic Rules</string>
+</resources>
